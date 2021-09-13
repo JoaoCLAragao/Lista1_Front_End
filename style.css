@@ -1,0 +1,56 @@
+.questao1 .horizontal{
+    display: flex;
+
+}
+.questao1 h1{
+    font-size: 20px;
+}
+
+.questao1 h2{ 
+    font-size: 15px; 
+    margin-right: 10px;
+}
+ 
+.questao1 input{
+    margin-right: 30px;
+    font-size: 15px;
+}
+
+.questao1 button{
+    margin-right: 30px;
+    max-height: 20px;
+    margin-top: 20px;
+}
+
+.questao1 .horizontal .buttons{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.questao1 #resultado{
+    max-height: 20px;
+}
+
+.questao2{
+    margin-top: 50px;
+}
+
+.questao2 h1{
+    font-size: 20px;
+}
+
+.questao2 h2{
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.questao2 input{
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+.questao2 button{
+    margin-right: 30px;
+}
+
